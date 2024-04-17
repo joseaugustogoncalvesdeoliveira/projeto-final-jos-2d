@@ -1,8 +1,23 @@
 body {background-color: black;
 }
-h1 {color:white;
+h1 {color:white; text-align: center;;
 }
 h2 {color: white;
 }
-#imagem {width:30%;}
+#imagem {width:40%;
+}
+h3 {color:green
+}
+#imagem1 {width: 20%; 
+}
+#imagem1 {margin-left: 40%;
+}
 
+h2{border-style:solid;
+border-color:red
+border-width:4px;
+}
+h3{border-style:solid;
+    border-color:red
+    border-width:4px;
+    }
